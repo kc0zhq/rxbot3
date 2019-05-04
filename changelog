@@ -1,0 +1,15 @@
+VERSION 2.4.4
+
+Primary Change Focus: RECONNECT
+
+Changes:
+
+The bot will now detect MOST instances of disconnecting from GPM or Twitch, and restart the bot to remedy the issue.
+Fixed the package installer  in 2.4.3
+
+SONGREQUEST:
+Added detectors when calling the gmusicapi library to stop crashes if there's no connection, and instead restart the bot.
+
+COMMANDS:
+No Changes
+
